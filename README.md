@@ -11,7 +11,7 @@ A passionate **Software Developer** focusing on **backend development, machine l
 - 🚀 Always learning new programming skills
 
 ### Currently Learning
-- React, Django, Machine Learning CNN + LSTM, Redis
+- React, Django, Machine Learning, Redis
 
 ### 🛠️ Language & Tools
 
